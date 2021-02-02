@@ -6,3 +6,7 @@ Vamos criar um e-commerce para a empresa ABC e blablabla
 ## Funcionalidades:
 
 Checkout, Tela de Produto, Catálogo, Home com banner
+
+###### Melhorias:
+
+Melhoria 1, melhoria 2...
