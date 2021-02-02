@@ -36,3 +36,7 @@ __Melhoria 1__, melhoria 2...
 
 ![Logo do PHP](https://www.php.net//images/logos/new-php-logo.svg)
 
+#### Links interessantes:
+
+[Google](https://www.google.com)
+
