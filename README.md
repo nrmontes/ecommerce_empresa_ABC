@@ -30,4 +30,4 @@ __Melhoria 1__, melhoria 2...
 
 #### Imagem local
 
-![Logo do Python](arquivogit/img/python.png)
+![Logo do Python](img/python.png)
