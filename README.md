@@ -43,3 +43,11 @@ __Melhoria 1__, melhoria 2...
 Contribuidor principal: https://www.github.com/nrmontes
 
 [![Logo do Python](img/perfil.jpg)](https://www.github.com/nrmontes)
+
+## Código da função soma:
+
+```javascript
+function soma(a, b) {
+    return a + b;
+}
+```
