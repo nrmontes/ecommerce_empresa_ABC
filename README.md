@@ -41,3 +41,5 @@ __Melhoria 1__, melhoria 2...
 [Google](https://www.google.com)
 
 Contribuidor principal: https://www.github.com/nrmontes
+
+[![Logo do Python](img/perfil.jpg)](https://www.github.com/nrmontes)
