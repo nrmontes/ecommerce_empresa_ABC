@@ -40,3 +40,4 @@ __Melhoria 1__, melhoria 2...
 
 [Google](https://www.google.com)
 
+Contribuidor principal: https://www.github.com/nrmontes
